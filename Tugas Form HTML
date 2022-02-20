@@ -1,0 +1,30 @@
+<html><head><tittle>
+            <strong>  <font type = arial font size ="6"  > Form HTML </font> </strong>
+        </tittle></head>
+    <body> <br> </br>
+    <font ty = arial size = "3" >
+        Name : <input type = "text" name = "Name" >
+        <br> </br>
+        Gender :
+        <input type = "radio" name ="Gender" value = "L" > Man
+        <input type  = "radio" name ="Gender" value = "P" > Woman
+    <br></br>
+    <font ty = arial size = "3" >
+        Address : <input type = "text" address = "address" >
+        <br></br>
+        Country : 
+        <Select name = "Country">
+            <option Value = "dg">Indonesia</option>
+        <option Value = "pj">Amerika </option>
+        <option Value = "sa">Mexico </option>
+        <option Value = "da">Arab </option>
+        </Select>
+        <br></br>
+        <font ty = arial size = "3" >
+            Email   : <input type = "text" email = "email" > <br> </br>
+             <form>
+                Photo : <input type = "text" name = "file" >
+                <input type = "Button" value ="Browse..." browser ="browser" >
+            </form> <br>
+            Comment :<textarea name="Description" cols="45" rows="5"> </textarea>
+            <input type="submit" value="Sumbit" name="submit"></body></html>
